@@ -56,9 +56,9 @@ print(felix.say_hi())
 
 <table>
 <tr>
-<td align="center" width="33%"><b>🎓 学生</b><br/><sub>24级 人工智能专业<br/>技术探索者</sub></td>
-<td align="center" width="33%"><b>📡 博主</b><br/><sub>开源项目自媒体<br/>全网同名 · 持续输出</sub></td>
-<td align="center" width="33%"><b>🤖 研究者</b><br/><sub>人形机器人算法<br/>感知 · 决策 · 控制</sub></td>
+<td align="center" width="33%"><b>🎓 学生</b><br/><sub>24级人工智能专业<br/>技术探索者</sub></td>
+<td align="center" width="33%"><b>📡 博主</b><br/><sub>开源项目自媒体<br/>全网同名</sub></td>
+<td align="center" width="33%"><b>🤖 研究者</b><br/><sub>人形机器人算法<br/>感知·决策·控制</sub></td>
 </tr>
 </table>
 
