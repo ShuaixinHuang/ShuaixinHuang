@@ -185,8 +185,8 @@ print(felix.say_hi())
 <a href="https://github.com/ShuaixinHuang"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white"/>
 <img src="https://img.shields.io/badge/知乎-0084FF?style=for-the-badge&logo=zhihu&logoColor=white"/>
-<img src="https://img.shields.io/badge/小红书-AI指挥官Felix-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white"/>
-<img src="https://img.shields.io/badge/视频号-AI指挥官Felix-07C160?style=for-the-badge&logo=wechat&logoColor=white"/>
+<img src="https://img.shields.io/badge/小红书-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white"/>
+<img src="https://img.shields.io/badge/视频号-07C160?style=for-the-badge&logo=wechat&logoColor=white"/>
 <img src="https://img.shields.io/badge/抖音-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
 
 </div>
