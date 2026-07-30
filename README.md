@@ -66,12 +66,12 @@ print(felix.say_hi())
 
 ---
 
-<!-- 作品展示：视频直接插入 -->
+<!-- 作品展示：视频原生播放（user-attachments URL） -->
 <div align="center">
 
 <h3>▶ 作品展示</h3>
 
-<video src="humanoid-robot.mp4" controls width="720"></video>
+<video src="https://github.com/user-attachments/assets/99ea5725-cdc0-4984-9fa2-3b51855b9654" controls width="720"></video>
 
 <p><sub>⚡ Humanoid Robot Demo · 人形机器人演示</sub></p>
 
