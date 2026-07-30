@@ -56,9 +56,9 @@ print(felix.say_hi())
 
 <table>
 <tr>
-<td align="center" width="33%"><b>🎓 学生</b><br/><sub>24级人工智能专业<br/>技术探索者</sub></td>
-<td align="center" width="33%"><b>📡 博主</b><br/><sub>开源项目自媒体<br/>全网同名</sub></td>
-<td align="center" width="33%"><b>🤖 研究者</b><br/><sub>人形机器人算法<br/>感知·决策·控制</sub></td>
+<td align="center" width="33%"><b>🎓 学生</b><br/><sub>24级人工智能专业</sub></td>
+<td align="center" width="33%"><b>📡 博主</b><br/><sub>开源项目自媒体</sub></td>
+<td align="center" width="33%"><b>🤖 研究者</b><br/><sub>人形机器人算法</sub></td>
 </tr>
 </table>
 
@@ -125,17 +125,13 @@ print(felix.say_hi())
 <tr>
 <td width="50%" align="center">
 <a href="https://github.com/ShuaixinHuang/Janus-Pro"><b>🔧 Janus-Pro</b></a><br/>
-<sub>Janus-Pro 一键部署</sub><br/><br/>
-<img src="https://img.shields.io/github/stars/ShuaixinHuang/Janus-Pro?style=flat-square&color=00f0ff&label=★"/>
-<img src="https://img.shields.io/github/forks/ShuaixinHuang/Janus-Pro?style=flat-square&color=ff00ff&label=🍴"/>
-<img src="https://img.shields.io/github/languages/top/ShuaixinHuang/Janus-Pro?style=flat-square&color=3776AB"/>
+<sub>Janus-Pro 一键部署</sub><br/>
+<sub>⭐ 4 · 🍴 2 · 🐍 Python</sub>
 </td>
 <td width="50%" align="center">
 <a href="https://github.com/ShuaixinHuang/image-multiple-angles-3d-camera"><b>🎬 image-multiple-angles-3d-camera</b></a><br/>
-<sub>多角度3D相机视角图像生成</sub><br/><br/>
-<img src="https://img.shields.io/github/stars/ShuaixinHuang/image-multiple-angles-3d-camera?style=flat-square&color=00f0ff&label=★"/>
-<img src="https://img.shields.io/github/forks/ShuaixinHuang/image-multiple-angles-3d-camera?style=flat-square&color=ff00ff&label=🍴"/>
-<img src="https://img.shields.io/github/languages/top/ShuaixinHuang/image-multiple-angles-3d-camera?style=flat-square&color=3776AB"/>
+<sub>多角度3D相机视角图像生成</sub><br/>
+<sub>⭐ 44 · 🍴 2 · 🐍 Python</sub>
 </td>
 </tr>
 </table>
@@ -168,7 +164,7 @@ print(felix.say_hi())
 
 <h3>📊 数据面板</h3>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ShuaixinHuang&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShuaixinHuang&theme=dracula" height="170" alt="stats"/>
 <img src="https://streak-stats.demolab.com/?user=ShuaixinHuang&theme=radical&hide_border=true" height="170" alt="streak"/>
 
 <br/>
@@ -177,8 +173,8 @@ print(felix.say_hi())
 
 <br/><br/>
 
-<img src="https://img.shields.io/github/followers/ShuaixinHuang?style=for-the-badge&logo=github&label=Followers&color=00f0ff"/>
-<img src="https://img.shields.io/github/repos/ShuaixinHuang?style=for-the-badge&logo=github&label=Public%20Repos&color=ff00ff"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/ShuaixinHuang&query=$.followers&label=Followers&color=00f0ff&style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/ShuaixinHuang&query=$.public_repos&label=Public%20Repos&color=ff00ff&style=for-the-badge&logo=github"/>
 
 </div>
 
