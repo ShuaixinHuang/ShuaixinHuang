@@ -56,9 +56,9 @@ print(felix.say_hi())
 
 <table>
 <tr>
-<td align="center" width="33%"><b>🎓 学生</b><br/><sub>24级人工智能专业</sub></td>
-<td align="center" width="33%"><b>📡 博主</b><br/><sub>开源项目自媒体</sub></td>
-<td align="center" width="33%"><b>🤖 研究者</b><br/><sub>人形机器人算法</sub></td>
+<td align="center" width="33%"><b>🎓 学生</b><br/><sub>24级人工智能专业<br/>算法探索</sub></td>
+<td align="center" width="33%"><b>📡 博主</b><br/><sub>开源项目自媒体<br/>全网同名</sub></td>
+<td align="center" width="33%"><b>🤖 研究者</b><br/><sub>人形机器人算法<br/>感知决策</sub></td>
 </tr>
 </table>
 
@@ -125,13 +125,17 @@ print(felix.say_hi())
 <tr>
 <td width="50%" align="center">
 <a href="https://github.com/ShuaixinHuang/Janus-Pro"><b>🔧 Janus-Pro</b></a><br/>
-<sub>Janus-Pro 一键部署</sub><br/>
-<sub>⭐ 4 · 🍴 2 · 🐍 Python</sub>
+<sub>Janus-Pro 一键部署</sub><br/><br/>
+<img src="https://img.shields.io/github/stars/ShuaixinHuang/Janus-Pro?style=for-the-badge&color=00f0ff&label=★%20STARS"/>
+<br/>
+<img src="https://img.shields.io/github/forks/ShuaixinHuang/Janus-Pro?style=for-the-badge&color=ff00ff&label=🍴%20FORKS"/>
 </td>
 <td width="50%" align="center">
 <a href="https://github.com/ShuaixinHuang/image-multiple-angles-3d-camera"><b>🎬 image-multiple-angles-3d-camera</b></a><br/>
-<sub>多角度3D相机视角图像生成</sub><br/>
-<sub>⭐ 44 · 🍴 2 · 🐍 Python</sub>
+<sub>多角度3D相机视角图像生成</sub><br/><br/>
+<img src="https://img.shields.io/github/stars/ShuaixinHuang/image-multiple-angles-3d-camera?style=for-the-badge&color=00f0ff&label=★%20STARS"/>
+<br/>
+<img src="https://img.shields.io/github/forks/ShuaixinHuang/image-multiple-angles-3d-camera?style=for-the-badge&color=ff00ff&label=🍴%20FORKS"/>
 </td>
 </tr>
 </table>
