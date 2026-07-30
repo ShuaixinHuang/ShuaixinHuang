@@ -53,7 +53,7 @@ print(felix.say_hi())
 
 <img src="https://img.shields.io/badge/🎓学生-人工智能专业_技术探索-00f0ff?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/📡博主-开源内容创作_全网同名-ff00ff?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🤖研究者-人形机器人学_感知决策-00ff00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🤖研究者-人形机器人算法_感知定位决策-00ff00?style=for-the-badge"/>
 
 </div>
 
