@@ -5,7 +5,7 @@
 <div align="center">
 
 <!-- 顶部霓虹横幅 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=AI%E6%8C%87%E6%8C%A5%E5%AE%98Felix&fontSize=48&fontColor=00f0ff&fontAlignY=40&animation=blinking&desc=%E2%96%B6%20%20Open%20Source%20%7C%20AI%20%7C%20Humanoid%20Robot&descAlignY=62&descSize=16&descColor=ff00ff" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=AI%E6%8C%87%E6%8C%A5%E5%AE%98Felix&fontSize=48&fontColor=00f0ff&fontAlignY=40&animation=fadeIn&desc=%E2%96%B6%20%20Open%20Source%20%7C%20AI%20%7C%20Humanoid%20Robot&descAlignY=62&descSize=16&descColor=ff00ff" width="100%" alt="header"/>
 
 <!-- 头像：机甲 + 霓虹光晕 -->
 <img src="mecha-avatar.jpg" width="180" alt="avatar" style="border-radius:50%; border:3px solid #00f0ff; box-shadow:0 0 25px #00f0ff, 0 0 50px #ff00ff; margin-top:10px;"/>
@@ -26,9 +26,9 @@
 <!-- 终端风格自我介绍 -->
 <div align="center">
 
-```python
-> felix@ai-commander:~$ whoami
+`felix@ai-commander:~$ whoami`
 
+```python
 class Felix:
     """AI指挥官Felix // 全网同名"""
     role      = "开源项目自媒体博主"
@@ -66,14 +66,16 @@ print(felix.say_hi())
 
 ---
 
-<!-- 作品展示：机器人视频 -->
+<!-- 作品展示：缩略图链接到视频（GitHub README 不支持 video 标签内联播放） -->
 <div align="center">
 
 <h3>▶ 作品展示</h3>
 
-<video src="humanoid-robot.mp4" controls width="720" style="border:2px solid #00f0ff; border-radius:12px; box-shadow:0 0 20px rgba(0,240,255,0.4);"></video>
+<a href="https://github.com/ShuaixinHuang/ShuaixinHuang/raw/main/humanoid-robot.mp4">
+  <img src="mecha-avatar.jpg" width="420" alt="Humanoid Robot Demo" style="border-radius:12px; border:2px solid #00f0ff; box-shadow:0 0 20px rgba(0,240,255,0.4);"/>
+</a>
 
-<p><sub>⚡ Humanoid Robot Demo · 人形机器人演示</sub></p>
+<p><sub>⚡ 点击图片播放 · Humanoid Robot Demo · 人形机器人演示</sub></p>
 
 </div>
 
@@ -140,12 +142,12 @@ print(felix.say_hi())
 
 <h3>📊 数据面板</h3>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ShuaixinHuang&show_icons=true&theme=radical&hide_border=true&count_private=true&title_color=00f0ff&icon_color=ff00ff&text_color=c9d1d9&bg_color=0f0c29,302b63,24243e" height="180" alt="stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShuaixinHuang&theme=radical&hide_border=true&background=0f0c29,302b63,24243e&ring=00f0ff&fire=ff00ff&currLabel=00f0ff" height="180" alt="streak"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ShuaixinHuang&show_icons=true&theme=radical&hide_border=true" height="170" alt="stats"/>
+<img src="https://streak-stats.demolab.com/?user=ShuaixinHuang&theme=radical&hide_border=true" height="170" alt="streak"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShuaixinHuang&layout=compact&theme=radical&hide_border=true&title_color=00f0ff&bg_color=0f0c29,302b63,24243e" height="180" alt="top-langs"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShuaixinHuang&layout=compact&theme=radical&hide_border=true" height="170" alt="top-langs"/>
 
 </div>
 
@@ -169,7 +171,7 @@ print(felix.say_hi())
 <!-- 底部 -->
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=ShuaixinHuang&style=for-the-badge&color=00f0ff&label=访客数" alt="visitors"/>
+<img src="https://komarev.com/ghpvc/?username=ShuaixinHuang&style=for-the-badge&color=00f0ff&label=Visitors" alt="visitors"/>
 
 <br/><br/>
 
