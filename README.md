@@ -57,8 +57,8 @@ print(felix.say_hi())
 <table>
 <tr>
 <td align="center" width="33%"><b>🎓 学生</b><br/><sub>人工智能专业<br/>技术探索</sub></td>
-<td align="center" width="33%"><b>📡 博主</b><br/><sub>开源项目自媒体<br/>全网同名</sub></td>
-<td align="center" width="33%"><b>🤖 研究者</b><br/><sub>人形机器人算法<br/>感知决策</sub></td>
+<td align="center" width="33%"><b>📡 博主</b><br/><sub>开源内容创作<br/>全网同名</sub></td>
+<td align="center" width="33%"><b>🤖 研究者</b><br/><sub>人形机器人学<br/>感知决策</sub></td>
 </tr>
 </table>
 
@@ -107,7 +107,7 @@ print(felix.say_hi())
 </tr>
 <tr>
 <td align="center"><code>2026</code></td>
-<td align="center"><b>自媒体创作手记</b> · 做开源内容这件事的点滴</td>
+<td align="center"><b>自媒体创作手记</b> · 分享有趣的开源内容</td>
 <td align="center"><code>创作</code></td>
 </tr>
 </table>
@@ -119,7 +119,7 @@ print(felix.say_hi())
 <!-- 📌 精选项目（Pinned） -->
 <div align="center">
 
-<h3>📌 精选项目</h3>
+<h3>📌 空闲时间做的小项目</h3>
 
 <table>
 <tr>
