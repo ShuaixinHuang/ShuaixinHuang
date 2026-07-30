@@ -28,6 +28,8 @@
 
 `felix@ai-commander:~$ whoami`
 
+</div>
+
 ```python
 class Felix:
     """AI指挥官Felix // 全网同名"""
@@ -44,8 +46,6 @@ class Felix:
 felix = Felix()
 print(felix.say_hi())
 ```
-
-</div>
 
 ---
 
@@ -121,8 +121,24 @@ print(felix.say_hi())
 
 <h3>📌 精选项目</h3>
 
-<a href="https://github.com/ShuaixinHuang/Janus-Pro"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ShuaixinHuang&repo=Janus-Pro&theme=dracula&hide_border=true&title_color=00f0ff&icon_color=ff00ff" alt="Janus-Pro"/></a>
-<a href="https://github.com/ShuaixinHuang/image-multiple-angles-3d-camera"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ShuaixinHuang&repo=image-multiple-angles-3d-camera&theme=dracula&hide_border=true&title_color=00f0ff&icon_color=ff00ff" alt="image-multiple-angles-3d-camera"/></a>
+<table>
+<tr>
+<td width="50%" align="center">
+<a href="https://github.com/ShuaixinHuang/Janus-Pro"><b>🔧 Janus-Pro</b></a><br/>
+<sub>Janus-Pro 一键部署</sub><br/><br/>
+<img src="https://img.shields.io/github/stars/ShuaixinHuang/Janus-Pro?style=flat-square&color=00f0ff&label=★"/>
+<img src="https://img.shields.io/github/forks/ShuaixinHuang/Janus-Pro?style=flat-square&color=ff00ff&label=🍴"/>
+<img src="https://img.shields.io/github/languages/top/ShuaixinHuang/Janus-Pro?style=flat-square&color=3776AB"/>
+</td>
+<td width="50%" align="center">
+<a href="https://github.com/ShuaixinHuang/image-multiple-angles-3d-camera"><b>🎬 image-multiple-angles-3d-camera</b></a><br/>
+<sub>多角度3D相机视角图像生成</sub><br/><br/>
+<img src="https://img.shields.io/github/stars/ShuaixinHuang/image-multiple-angles-3d-camera?style=flat-square&color=00f0ff&label=★"/>
+<img src="https://img.shields.io/github/forks/ShuaixinHuang/image-multiple-angles-3d-camera?style=flat-square&color=ff00ff&label=🍴"/>
+<img src="https://img.shields.io/github/languages/top/ShuaixinHuang/image-multiple-angles-3d-camera?style=flat-square&color=3776AB"/>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -163,7 +179,6 @@ print(felix.say_hi())
 
 <img src="https://img.shields.io/github/followers/ShuaixinHuang?style=for-the-badge&logo=github&label=Followers&color=00f0ff"/>
 <img src="https://img.shields.io/github/repos/ShuaixinHuang?style=for-the-badge&logo=github&label=Public%20Repos&color=ff00ff"/>
-<img src="https://img.shields.io/github/stars/ShuaixinHuang?style=for-the-badge&logo=github&label=Stars&color=00f0ff&affiliations=owner"/>
 
 </div>
 
