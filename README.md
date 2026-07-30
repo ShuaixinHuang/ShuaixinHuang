@@ -26,17 +26,9 @@
 <!-- 终端风格自我介绍 -->
 <div align="center">
 
-```yaml
-> felix@ai-commander:~$ whoami
-```
-
-</div>
-
-<table>
-<tr>
-<td>
-
 ```python
+> felix@ai-commander:~$ whoami
+
 class Felix:
     """AI指挥官Felix // 全网同名"""
     role      = "开源项目自媒体博主"
@@ -53,9 +45,7 @@ felix = Felix()
 print(felix.say_hi())
 ```
 
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
@@ -66,18 +56,9 @@ print(felix.say_hi())
 
 <table>
 <tr>
-<td align="center" width="33%">
-<h4>🎓 学生</h4>
-<sub>24级 人工智能专业<br/>算法与机器人技术探索者</sub>
-</td>
-<td align="center" width="33%">
-<h4>📡 博主</h4>
-<sub>开源项目自媒体<br/>全网同名 · 持续输出</sub>
-</td>
-<td align="center" width="33%">
-<h4>🤖 研究者</h4>
-<sub>人形机器人算法<br/>感知 · 决策 · 控制</sub>
-</td>
+<td align="center" width="33%"><b>🎓 学生</b><br/><sub>24级 人工智能专业<br/>算法与机器人技术探索者</sub></td>
+<td align="center" width="33%"><b>📡 博主</b><br/><sub>开源项目自媒体<br/>全网同名 · 持续输出</sub></td>
+<td align="center" width="33%"><b>🤖 研究者</b><br/><sub>人形机器人算法<br/>感知 · 决策 · 控制</sub></td>
 </tr>
 </table>
 
@@ -90,7 +71,7 @@ print(felix.say_hi())
 
 <h3>▶ 作品展示</h3>
 
-<img src="humanoid-robot.mp4" width="720" alt="humanoid robot demo" style="border:2px solid #00f0ff; border-radius:12px; box-shadow:0 0 20px rgba(0,240,255,0.4);"/>
+<video src="humanoid-robot.mp4" controls width="720" style="border:2px solid #00f0ff; border-radius:12px; box-shadow:0 0 20px rgba(0,240,255,0.4);"></video>
 
 <p><sub>⚡ Humanoid Robot Demo · 人形机器人演示</sub></p>
 
@@ -98,19 +79,40 @@ print(felix.say_hi())
 
 ---
 
-<!-- 最新内容 · 仿 Hamilton post-list -->
+<!-- 内容矩阵 · 居中表格 -->
 <div align="center">
 
 <h3>✎ 内容矩阵</h3>
 
-</div>
+<table>
+<tr>
+<th align="center">日期</th>
+<th align="center">标题</th>
+<th align="center">标签</th>
+</tr>
+<tr>
+<td align="center"><code>2026</code></td>
+<td align="center"><b>人形机器人算法实战</b> · 感知与运动控制探索记录</td>
+<td align="center"><code>机器人</code></td>
+</tr>
+<tr>
+<td align="center"><code>2026</code></td>
+<td align="center"><b>开源项目解读系列</b> · 拆解设计思路与实现细节</td>
+<td align="center"><code>开源</code></td>
+</tr>
+<tr>
+<td align="center"><code>2026</code></td>
+<td align="center"><b>AI 前沿观察</b> · 跟踪算法与工程落地</td>
+<td align="center"><code>AI</code></td>
+</tr>
+<tr>
+<td align="center"><code>2026</code></td>
+<td align="center"><b>自媒体创作手记</b> · 做开源内容这件事的点滴</td>
+<td align="center"><code>创作</code></td>
+</tr>
+</table>
 
-| 日期 | 标题 | 标签 |
-|:---:|:---|:---:|
-| `2026` | **人形机器人算法实战** · 感知与运动控制探索记录 | `机器人` |
-| `2026` | **开源项目解读系列** · 拆解设计思路与实现细节 | `开源` |
-| `2026` | **AI 前沿观察** · 跟踪算法与工程落地 | `AI` |
-| `2026` | **自媒体创作手记** · 做开源内容这件事的点滴 | `创作` |
+</div>
 
 ---
 
@@ -128,9 +130,6 @@ print(felix.say_hi())
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
 <br/><br/>
 <img src="https://img.shields.io/badge/Humanoid_Robot-FF6B6B?style=flat-square&logo=robotframework&logoColor=white"/>
-<img src="https://img.shields.io/badge/3D_CNN-8E44AD?style=flat-square"/>
-<img src="https://img.shields.io/badge/3D_SWT-16A085?style=flat-square"/>
-<img src="https://img.shields.io/badge/BFMF-2980B9?style=flat-square"/>
 
 </div>
 
