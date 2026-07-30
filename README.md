@@ -66,16 +66,14 @@ print(felix.say_hi())
 
 ---
 
-<!-- 作品展示：缩略图链接到视频（GitHub README 不支持 video 标签内联播放） -->
+<!-- 作品展示：视频直接插入 -->
 <div align="center">
 
 <h3>▶ 作品展示</h3>
 
-<a href="https://github.com/ShuaixinHuang/ShuaixinHuang/raw/main/humanoid-robot.mp4">
-  <img src="mecha-avatar.jpg" width="420" alt="Humanoid Robot Demo" style="border-radius:12px; border:2px solid #00f0ff; box-shadow:0 0 20px rgba(0,240,255,0.4);"/>
-</a>
+<video src="humanoid-robot.mp4" controls width="720"></video>
 
-<p><sub>⚡ 点击图片播放 · Humanoid Robot Demo · 人形机器人演示</sub></p>
+<p><sub>⚡ Humanoid Robot Demo · 人形机器人演示</sub></p>
 
 </div>
 
@@ -142,12 +140,12 @@ print(felix.say_hi())
 
 <h3>📊 数据面板</h3>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ShuaixinHuang&show_icons=true&theme=radical&hide_border=true" height="170" alt="stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShuaixinHuang&theme=dracula" height="170" alt="stats"/>
 <img src="https://streak-stats.demolab.com/?user=ShuaixinHuang&theme=radical&hide_border=true" height="170" alt="streak"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShuaixinHuang&layout=compact&theme=radical&hide_border=true" height="170" alt="top-langs"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShuaixinHuang&theme=dracula" height="170" alt="top-langs"/>
 
 </div>
 
@@ -161,7 +159,8 @@ print(felix.say_hi())
 <a href="https://github.com/ShuaixinHuang"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white"/>
 <img src="https://img.shields.io/badge/知乎-0084FF?style=for-the-badge&logo=zhihu&logoColor=white"/>
-<img src="https://img.shields.io/badge/微信公众号-07C160?style=for-the-badge&logo=wechat&logoColor=white"/>
+<img src="https://img.shields.io/badge/小红书-AI指挥官Felix-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white"/>
+<img src="https://img.shields.io/badge/视频号-AI指挥官Felix-07C160?style=for-the-badge&logo=wechat&logoColor=white"/>
 <img src="https://img.shields.io/badge/抖音-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
 
 </div>
