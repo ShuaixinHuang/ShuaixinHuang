@@ -10,10 +10,7 @@
 <!-- 头像：机甲 + 霓虹光晕 -->
 <img src="mecha-avatar.jpg" width="180" alt="avatar" style="border-radius:50%; border:3px solid #00f0ff; box-shadow:0 0 25px #00f0ff, 0 0 50px #ff00ff; margin-top:10px;"/>
 
-<!-- 品牌名 + 徽章 -->
-<h1>
-  <span style="color:#00f0ff;">AI</span><span style="color:#ff00ff;">指挥官</span><span style="color:#00f0ff;">Felix</span>
-</h1>
+<!-- 徽章 -->
 
 <a href="https://github.com/ShuaixinHuang"><img src="https://img.shields.io/badge/GitHub-ShuaixinHuang-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/ID-AI%E6%8C%87%E6%8C%A5%E5%AE%98Felix-ff00ff?style=for-the-badge&logo=robotframework&logoColor=white"/>
@@ -54,13 +51,9 @@ print(felix.say_hi())
 
 <h3>✦ 三重身份 ✦</h3>
 
-<table>
-<tr>
-<td align="center" width="33%"><b>🎓 学生</b><br/><sub>人工智能专业<br/>技术探索</sub></td>
-<td align="center" width="33%"><b>📡 博主</b><br/><sub>开源内容创作<br/>全网同名</sub></td>
-<td align="center" width="33%"><b>🤖 研究者</b><br/><sub>人形机器人学<br/>感知决策</sub></td>
-</tr>
-</table>
+<img src="https://img.shields.io/badge/🎓学生-人工智能专业_技术探索-00f0ff?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/📡博主-开源内容创作_全网同名-ff00ff?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🤖研究者-人形机器人学_感知决策-00ff00?style=for-the-badge"/>
 
 </div>
 
