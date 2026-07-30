@@ -116,6 +116,18 @@ print(felix.say_hi())
 
 ---
 
+<!-- 📌 精选项目（Pinned） -->
+<div align="center">
+
+<h3>📌 精选项目</h3>
+
+<a href="https://github.com/ShuaixinHuang/Janus-Pro"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ShuaixinHuang&repo=Janus-Pro&theme=dracula&hide_border=true&title_color=00f0ff&icon_color=ff00ff" alt="Janus-Pro"/></a>
+<a href="https://github.com/ShuaixinHuang/image-multiple-angles-3d-camera"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ShuaixinHuang&repo=image-multiple-angles-3d-camera&theme=dracula&hide_border=true&title_color=00f0ff&icon_color=ff00ff" alt="image-multiple-angles-3d-camera"/></a>
+
+</div>
+
+---
+
 <!-- 技能矩阵 -->
 <div align="center">
 
@@ -140,12 +152,18 @@ print(felix.say_hi())
 
 <h3>📊 数据面板</h3>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShuaixinHuang&theme=dracula" height="170" alt="stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ShuaixinHuang&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="stats"/>
 <img src="https://streak-stats.demolab.com/?user=ShuaixinHuang&theme=radical&hide_border=true" height="170" alt="streak"/>
 
 <br/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShuaixinHuang&theme=dracula" height="170" alt="top-langs"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/github/followers/ShuaixinHuang?style=for-the-badge&logo=github&label=Followers&color=00f0ff"/>
+<img src="https://img.shields.io/github/repos/ShuaixinHuang?style=for-the-badge&logo=github&label=Public%20Repos&color=ff00ff"/>
+<img src="https://img.shields.io/github/stars/ShuaixinHuang?style=for-the-badge&logo=github&label=Stars&color=00f0ff&affiliations=owner"/>
 
 </div>
 
@@ -175,6 +193,13 @@ print(felix.say_hi())
 <br/><br/>
 
 > ⚡ *"Stay curious, keep building."* — AI指挥官Felix
+
+<br/>
+
+<!-- 贡献活动热力图 -->
+<h3>🔥 贡献活动</h3>
+
+<img src="https://ghchart.rshah.org/00f0ff/ShuaixinHuang" alt="contribution activity" width="100%"/>
 
 <br/>
 
