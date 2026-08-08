@@ -7,9 +7,6 @@
 <!-- 顶部霓虹横幅 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=AI%E6%8C%87%E6%8C%A5%E5%AE%98Felix&fontSize=48&fontColor=00f0ff&fontAlignY=40&animation=fadeIn&desc=%E2%96%B6%20%20Open%20Source%20%7C%20AI%20%7C%20Humanoid%20Robot&descAlignY=62&descSize=16&descColor=ff00ff" width="100%" alt="header"/>
 
-<!-- 头像：机甲 + 霓虹光晕 -->
-<img src="mecha-avatar.jpg" width="180" alt="avatar" style="border-radius:50%; border:3px solid #00f0ff; box-shadow:0 0 25px #00f0ff, 0 0 50px #ff00ff; margin-top:10px;"/>
-
 <!-- 徽章 -->
 
 <a href="https://github.com/ShuaixinHuang"><img src="https://img.shields.io/badge/GitHub-ShuaixinHuang-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -54,19 +51,6 @@ print(felix.say_hi())
 <img src="https://img.shields.io/badge/🎓学生-人工智能专业_技术探索-00f0ff?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/📡博主-开源内容创作_全网同名-ff00ff?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/🤖研究者-人形机器人算法_感知定位决策-00ff00?style=for-the-badge"/>
-
-</div>
-
----
-
-<!-- 作品展示：视频原生播放（user-attachments URL） -->
-<div align="center">
-
-<h3>▶ 作品展示</h3>
-
-<video src="https://github.com/user-attachments/assets/99ea5725-cdc0-4984-9fa2-3b51855b9654" controls width="720"></video>
-
-<p><sub>⚡ Humanoid Robot Demo · 人形机器人演示</sub></p>
 
 </div>
 
@@ -126,9 +110,9 @@ print(felix.say_hi())
 <td width="50%" align="center">
 <a href="https://github.com/ShuaixinHuang/image-multiple-angles-3d-camera"><b>🎬 image-multiple-angles-3d-camera</b></a><br/>
 <sub>多角度3D相机视角图像生成</sub><br/><br/>
-<img src="https://img.shields.io/badge/Stars-44-00f0ff?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Stars-251-00f0ff?style=for-the-badge&logo=github"/>
 <br/>
-<img src="https://img.shields.io/badge/Forks-2-ff00ff?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Forks-7-ff00ff?style=for-the-badge&logo=github"/>
 </td>
 </tr>
 </table>
