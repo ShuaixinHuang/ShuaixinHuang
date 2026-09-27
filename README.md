@@ -17,41 +17,24 @@
 
 ---
 
-<!-- 终端风格自我介绍 -->
+<!-- 个人简介 -->
 <div align="center">
 
-`felix@ai-commander:~$ whoami`
+<h2>你好，我是 Felix 👋</h2>
 
-</div>
+<p><b>人工智能专业学生 · 开源内容创作者 · 人形机器人算法探索者</b></p>
 
-```python
-class Felix:
-    """AI指挥官Felix // 全网同名"""
-    role      = "开源项目自媒体博主"
-    identity  = "人工智能专业学生"
-    research  = "人形机器人算法"
-    stack     = ["Python", "MATLAB", "PyTorch"]
-    focus     = ["感知", "决策", "运动控制"]
-    mission   = "记录开源世界，分享AI探索"
-    project   = "awesome-robotics"
+<p>关注机器人的感知、决策与运动控制，<br/>记录学习与实践，分享值得探索的开源项目。</p>
 
-    def say_hi(self):
-        return "欢迎来到我的数字基地 ⚡"
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" alt="MATLAB"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
+</p>
 
-felix = Felix()
-print(felix.say_hi())
-```
+<p>🤖 正在整理 <a href="https://github.com/ShuaixinHuang/awesome-robotics"><b>awesome-robotics</b></a>，欢迎一起发现有趣的机器人与具身智能项目。</p>
 
----
-
-<!-- 核心身份卡片 -->
-<div align="center">
-
-<h3>✦ 三重身份 ✦</h3>
-
-<img src="https://img.shields.io/badge/🎓学生-人工智能专业_技术探索-00f0ff?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/📡博主-开源内容创作_全网同名-ff00ff?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🤖研究者-人形机器人算法_感知定位决策-00ff00?style=for-the-badge"/>
+<sub>全网同名：AI指挥官Felix · Stay curious, keep building.</sub>
 
 </div>
 
