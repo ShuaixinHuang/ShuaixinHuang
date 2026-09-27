@@ -33,6 +33,7 @@ class Felix:
     stack     = ["Python", "MATLAB", "PyTorch"]
     focus     = ["感知", "决策", "运动控制"]
     mission   = "记录开源世界，分享AI探索"
+    project   = "awesome-robotics"
 
     def say_hi(self):
         return "欢迎来到我的数字基地 ⚡"
@@ -96,23 +97,37 @@ print(felix.say_hi())
 <!-- 📌 精选项目（Pinned） -->
 <div align="center">
 
-<h3>📌 空闲时间做的小项目</h3>
+<h3>📌 精选项目 · Selected Projects</h3>
+
+<table>
+<tr>
+<td align="center">
+<a href="https://github.com/ShuaixinHuang/awesome-robotics"><b>🤖 awesome-robotics</b></a><br/>
+<sub>机器人与具身智能资源合集 · 从硬件到智能</sub><br/><br/>
+VLA 模型 · 人形机器人 · 机械臂 · SLAM · 仿真 · 嵌入式系统<br/>
+<sub>A curated collection of robotics and embodied AI resources.</sub><br/><br/>
+<a href="https://github.com/ShuaixinHuang/awesome-robotics"><img src="https://img.shields.io/github/stars/ShuaixinHuang/awesome-robotics?style=for-the-badge&color=00f0ff&logo=github" alt="awesome-robotics stars"/></a>
+<a href="https://github.com/ShuaixinHuang/awesome-robotics/forks"><img src="https://img.shields.io/github/forks/ShuaixinHuang/awesome-robotics?style=for-the-badge&color=ff00ff&logo=github" alt="awesome-robotics forks"/></a><br/><br/>
+<a href="https://github.com/ShuaixinHuang/awesome-robotics#navigation">🧭 浏览资源</a> · <a href="https://github.com/ShuaixinHuang/awesome-robotics/issues">💡 推荐项目</a>
+</td>
+</tr>
+</table>
 
 <table>
 <tr>
 <td width="50%" align="center">
 <a href="https://github.com/ShuaixinHuang/Janus-Pro"><b>🔧 Janus-Pro</b></a><br/>
 <sub>Janus-Pro 一键部署</sub><br/><br/>
-<img src="https://img.shields.io/badge/Stars-4-00f0ff?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/github/stars/ShuaixinHuang/Janus-Pro?style=for-the-badge&color=00f0ff&logo=github"/>
 <br/>
-<img src="https://img.shields.io/badge/Forks-2-ff00ff?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/github/forks/ShuaixinHuang/Janus-Pro?style=for-the-badge&color=ff00ff&logo=github"/>
 </td>
 <td width="50%" align="center">
 <a href="https://github.com/ShuaixinHuang/image-multiple-angles-3d-camera"><b>🎬 image-multiple-angles-3d-camera</b></a><br/>
 <sub>多角度3D相机视角图像生成</sub><br/><br/>
-<img src="https://img.shields.io/badge/Stars-251-00f0ff?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/github/stars/ShuaixinHuang/image-multiple-angles-3d-camera?style=for-the-badge&color=00f0ff&logo=github"/>
 <br/>
-<img src="https://img.shields.io/badge/Forks-7-ff00ff?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/github/forks/ShuaixinHuang/image-multiple-angles-3d-camera?style=for-the-badge&color=ff00ff&logo=github"/>
 </td>
 </tr>
 </table>
