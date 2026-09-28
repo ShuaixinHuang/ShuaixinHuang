@@ -178,7 +178,7 @@ VLA 模型 · 人形机器人 · 机械臂 · SLAM · 仿真 · 嵌入式系统<
 <!-- 底部 -->
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=ShuaixinHuang&style=for-the-badge&color=00f0ff&label=Visitors" alt="visitors"/>
+<p>👀 感谢来访 · Thanks for visiting!</p>
 
 <br/><br/>
 
