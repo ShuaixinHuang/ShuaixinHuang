@@ -1,30 +1,30 @@
 <!-- ╔══════════════════════════════════════════════════════════════╗
-     ║   AI指挥官Felix · Cyberpunk Profile · 2026
+     ║   AI Commander Felix · Cyberpunk Profile · 2026
      ╚══════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
 
-<!-- 顶部霓虹横幅 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=AI%E6%8C%87%E6%8C%A5%E5%AE%98Felix&fontSize=48&fontColor=00f0ff&fontAlignY=40&animation=fadeIn&desc=%E2%96%B6%20%20Open%20Source%20%7C%20AI%20%7C%20Humanoid%20Robot&descAlignY=62&descSize=16&descColor=ff00ff" width="100%" alt="header"/>
+<!-- Neon header banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=AI%20Commander%20Felix&fontSize=48&fontColor=00f0ff&fontAlignY=40&animation=fadeIn&desc=%E2%96%B6%20%20Open%20Source%20%7C%20AI%20%7C%20Humanoid%20Robot&descAlignY=62&descSize=16&descColor=ff00ff" width="100%" alt="header"/>
 
-<!-- 徽章 -->
+<!-- Badges -->
 
 <a href="https://github.com/ShuaixinHuang"><img src="https://img.shields.io/badge/GitHub-ShuaixinHuang-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/ID-AI%E6%8C%87%E6%8C%A5%E5%AE%98Felix-ff00ff?style=for-the-badge&logo=robotframework&logoColor=white"/>
+<img src="https://img.shields.io/badge/ID-AI%20Commander%20Felix-ff00ff?style=for-the-badge&logo=robotframework&logoColor=white"/>
 <img src="https://img.shields.io/badge/Status-Online-00f0ff?style=for-the-badge&logo=statuspage&logoColor=black"/>
 
 </div>
 
 ---
 
-<!-- 个人简介 -->
+<!-- About me -->
 <div align="center">
 
-<h2>你好，我是 Felix 👋</h2>
+<h2>Hi, I'm Felix 👋</h2>
 
-<p><b>人工智能专业学生 · 开源内容创作者 · 人形机器人算法探索者</b></p>
+<p><b>AI Student · Open Source Content Creator · Humanoid Robotics Enthusiast</b></p>
 
-<p>关注机器人的感知、决策与运动控制，<br/>记录学习与实践，分享值得探索的开源项目。</p>
+<p>I'm interested in robot perception, decision making, and motion control.<br/>I document what I learn and build, and share open source projects worth exploring.</p>
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
@@ -32,44 +32,44 @@
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
 </p>
 
-<p>🤖 正在整理 <a href="https://github.com/ShuaixinHuang/awesome-robotics"><b>awesome-robotics</b></a>，欢迎一起发现有趣的机器人与具身智能项目。</p>
+<p>🤖 I'm curating <a href="https://github.com/ShuaixinHuang/awesome-robotics"><b>awesome-robotics</b></a>. Join me in discovering interesting robotics and embodied AI projects.</p>
 
-<sub>全网同名：AI指挥官Felix · Stay curious, keep building.</sub>
+<sub>Online as AI Commander Felix · Stay curious, keep building.</sub>
 
 </div>
 
 ---
 
-<!-- 内容矩阵 · 居中表格 -->
+<!-- Content topics · Centered table -->
 <div align="center">
 
-<h3>✎ 内容矩阵</h3>
+<h3>✎ What I Write About</h3>
 
 <table>
 <tr>
-<th align="center">日期</th>
-<th align="center">标题</th>
-<th align="center">标签</th>
+<th align="center">Date</th>
+<th align="center">Title</th>
+<th align="center">Tags</th>
 </tr>
 <tr>
 <td align="center"><code>2026</code></td>
-<td align="center"><b>人形机器人算法实战</b> · 感知与运动控制探索记录</td>
-<td align="center"><code>机器人</code></td>
+<td align="center"><b>Humanoid Robot Algorithms in Practice</b> · Notes on perception and motion control</td>
+<td align="center"><code>Robotics</code></td>
 </tr>
 <tr>
 <td align="center"><code>2026</code></td>
-<td align="center"><b>开源项目解读系列</b> · 拆解设计思路与实现细节</td>
-<td align="center"><code>开源</code></td>
+<td align="center"><b>Open Source Project Walkthroughs</b> · Exploring design decisions and implementation details</td>
+<td align="center"><code>Open Source</code></td>
 </tr>
 <tr>
 <td align="center"><code>2026</code></td>
-<td align="center"><b>AI 前沿观察</b> · 跟踪算法与工程落地</td>
+<td align="center"><b>AI Developments</b> · Following new algorithms and practical engineering</td>
 <td align="center"><code>AI</code></td>
 </tr>
 <tr>
 <td align="center"><code>2026</code></td>
-<td align="center"><b>自媒体创作手记</b> · 分享有趣的开源内容</td>
-<td align="center"><code>创作</code></td>
+<td align="center"><b>Content Creation Notes</b> · Sharing interesting open source content</td>
+<td align="center"><code>Content Creation</code></td>
 </tr>
 </table>
 
@@ -77,21 +77,21 @@
 
 ---
 
-<!-- 📌 精选项目（Pinned） -->
+<!-- 📌 Selected projects (Pinned) -->
 <div align="center">
 
-<h3>📌 精选项目 · Selected Projects</h3>
+<h3>📌 Selected Projects</h3>
 
 <table>
 <tr>
 <td align="center">
 <a href="https://github.com/ShuaixinHuang/awesome-robotics"><b>🤖 awesome-robotics</b></a><br/>
-<sub>机器人与具身智能资源合集 · 从硬件到智能</sub><br/><br/>
-VLA 模型 · 人形机器人 · 机械臂 · SLAM · 仿真 · 嵌入式系统<br/>
+<sub>Robotics and Embodied AI · From Hardware to Intelligence</sub><br/><br/>
+VLA Models · Humanoid Robots · Robotic Arms · SLAM · Simulation · Embedded Systems<br/>
 <sub>A curated collection of robotics and embodied AI resources.</sub><br/><br/>
 <a href="https://github.com/ShuaixinHuang/awesome-robotics"><img src="https://img.shields.io/github/stars/ShuaixinHuang/awesome-robotics?style=for-the-badge&color=00f0ff&logo=github" alt="awesome-robotics stars"/></a>
 <a href="https://github.com/ShuaixinHuang/awesome-robotics/forks"><img src="https://img.shields.io/github/forks/ShuaixinHuang/awesome-robotics?style=for-the-badge&color=ff00ff&logo=github" alt="awesome-robotics forks"/></a><br/><br/>
-<a href="https://github.com/ShuaixinHuang/awesome-robotics#navigation">🧭 浏览资源</a> · <a href="https://github.com/ShuaixinHuang/awesome-robotics/issues">💡 推荐项目</a>
+<a href="https://github.com/ShuaixinHuang/awesome-robotics#navigation">🧭 Browse Resources</a> · <a href="https://github.com/ShuaixinHuang/awesome-robotics/issues">💡 Suggest a Project</a>
 </td>
 </tr>
 </table>
@@ -100,14 +100,14 @@ VLA 模型 · 人形机器人 · 机械臂 · SLAM · 仿真 · 嵌入式系统<
 <tr>
 <td width="50%" align="center">
 <a href="https://github.com/ShuaixinHuang/Janus-Pro"><b>🔧 Janus-Pro</b></a><br/>
-<sub>Janus-Pro 一键部署</sub><br/><br/>
+<sub>One-click deployment for Janus-Pro</sub><br/><br/>
 <img src="https://img.shields.io/github/stars/ShuaixinHuang/Janus-Pro?style=for-the-badge&color=00f0ff&logo=github"/>
 <br/>
 <img src="https://img.shields.io/github/forks/ShuaixinHuang/Janus-Pro?style=for-the-badge&color=ff00ff&logo=github"/>
 </td>
 <td width="50%" align="center">
 <a href="https://github.com/ShuaixinHuang/image-multiple-angles-3d-camera"><b>🎬 image-multiple-angles-3d-camera</b></a><br/>
-<sub>多角度3D相机视角图像生成</sub><br/><br/>
+<sub>Generate images from multiple 3D camera angles</sub><br/><br/>
 <img src="https://img.shields.io/github/stars/ShuaixinHuang/image-multiple-angles-3d-camera?style=for-the-badge&color=00f0ff&logo=github"/>
 <br/>
 <img src="https://img.shields.io/github/forks/ShuaixinHuang/image-multiple-angles-3d-camera?style=for-the-badge&color=ff00ff&logo=github"/>
@@ -119,10 +119,10 @@ VLA 模型 · 人形机器人 · 机械臂 · SLAM · 仿真 · 嵌入式系统<
 
 ---
 
-<!-- 技能矩阵 -->
+<!-- Tech stack -->
 <div align="center">
 
-<h3>⚙ 技能矩阵</h3>
+<h3>⚙ Tech Stack</h3>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white"/>
@@ -138,10 +138,10 @@ VLA 模型 · 人形机器人 · 机械臂 · SLAM · 仿真 · 嵌入式系统<
 
 ---
 
-<!-- GitHub 统计 -->
+<!-- GitHub statistics -->
 <div align="center">
 
-<h3>📊 数据面板</h3>
+<h3>📊 GitHub Stats</h3>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShuaixinHuang&theme=dracula" height="170" alt="stats"/>
 <img src="https://streak-stats.demolab.com/?user=ShuaixinHuang&theme=radical&hide_border=true" height="170" alt="streak"/>
@@ -159,35 +159,35 @@ VLA 模型 · 人形机器人 · 机械臂 · SLAM · 仿真 · 嵌入式系统<
 
 ---
 
-<!-- 全网同名 -->
+<!-- Find me online -->
 <div align="center">
 
-<h3>📡 全网同名 · AI指挥官Felix</h3>
+<h3>📡 Find Me Online · AI Commander Felix</h3>
 
 <a href="https://github.com/ShuaixinHuang"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white"/>
-<img src="https://img.shields.io/badge/知乎-0084FF?style=for-the-badge&logo=zhihu&logoColor=white"/>
-<img src="https://img.shields.io/badge/小红书-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white"/>
-<img src="https://img.shields.io/badge/视频号-07C160?style=for-the-badge&logo=wechat&logoColor=white"/>
-<img src="https://img.shields.io/badge/抖音-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+<img src="https://img.shields.io/badge/Zhihu-0084FF?style=for-the-badge&logo=zhihu&logoColor=white"/>
+<img src="https://img.shields.io/badge/Xiaohongshu-FF2442?style=for-the-badge&logo=xiaohongshu&logoColor=white"/>
+<img src="https://img.shields.io/badge/WeChat_Channels-07C160?style=for-the-badge&logo=wechat&logoColor=white"/>
+<img src="https://img.shields.io/badge/Douyin-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
 
 </div>
 
 ---
 
-<!-- 底部 -->
+<!-- Footer -->
 <div align="center">
 
-<p>👀 感谢来访 · Thanks for visiting!</p>
+<p>👀 Thanks for visiting!</p>
 
 <br/><br/>
 
-> ⚡ *"Stay curious, keep building."* — AI指挥官Felix
+> ⚡ *"Stay curious, keep building."* — AI Commander Felix
 
 <br/>
 
-<!-- 贡献活动热力图 -->
-<h3>🔥 贡献活动</h3>
+<!-- Contribution activity heatmap -->
+<h3>🔥 Contribution Activity</h3>
 
 <img src="https://ghchart.rshah.org/00f0ff/ShuaixinHuang" alt="contribution activity" width="100%"/>
 
